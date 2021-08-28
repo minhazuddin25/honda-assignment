@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+.top-banner{
+    background-color: #264653;
+    padding: 100px;
+    
+}
+
+
+.banner{
+    display: flex;
+}
+
+
+.text-area{
+    width: 40%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.navber{
+    background-color: #264653;
+}
+
+
+
+.bike-text{
+    text-align: center;
+    padding: 100px 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+
+.bikes-area{
+    padding: 50px 0;
+}
+.bike-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.bike-image img
+{
+    width: 300px;
+    padding-right: 50px;
+}
+
+.latest-news h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.cleant-text{
+    text-align: center;
+}
+
+.cleant-info .card img{
+    width: 200px;
+    justify-content: center;
+}
+.cleant-info a{
+    text-decoration: none;
+}
+.cleant-info{
+    justify-content: center;
+}
+
+
+
+.faq img{
+width: 431px;
+height: 425px;
+
+}
+
+.faq{
+    display: flex;
+    padding: 100px;
+}
+
+.faq-section{
+    padding: 100px;
+}
+
+
+.footer-info{
+    width: 75%;
+}
+.left a{
+    
+   padding: 10px;
+    text-decoration: none;
+}
+.left p{
+    padding: 10px;
+}
+
+.left{
+    padding-left: 100px;
+}
+
+
+.menu-top{
+    display: flex;
+
+}
+.footer-area{
+    padding: 50px;
+}
+
+
+.footer-info{
+    display: flex;
+    
+}
+
+.right h3{
+    justify-content: end ;
+    justify-items: end;
+    padding-left: 150px;
+}
